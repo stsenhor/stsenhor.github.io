@@ -3,31 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stsenhor.github.io/about/</loc>
+    <loc>/</loc>
     <lastmod>2019-12-07T12:34:21+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stsenhor.github.io/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-12-07T12:34:21+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stsenhor.github.io/post/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-12-01T22:31:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stsenhor.github.io/post/test/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-12-01T22:31:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stsenhor.github.io/categories/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-01T22:31:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stsenhor.github.io/tags/</loc>
+    <loc>/tags/test/</loc>
+    <lastmod>2019-12-01T22:31:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/test/</loc>
+    <lastmod>2019-12-01T22:31:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/test/</loc>
+    <lastmod>2019-12-01T22:31:51+09:00</lastmod>
   </url>
   
 </urlset>

@@ -1,22 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="https://stsenhor.github.io/xml/base.min.xml" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on The birth of Ubermensch</title>
-    <link>https://stsenhor.github.io/tags/</link>
-    <description>Recent content in Tags on The birth of Ubermensch</description>
+    <title>Tags on </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <atom:link href="https://stsenhor.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2019 22:31:51 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>ブログ始めました。</title>
-      <link>https://stsenhor.github.io/post/test/</link>
+      <title>test</title>
+      <link>/tags/test/</link>
       <pubDate>Sun, 01 Dec 2019 22:31:51 +0900</pubDate>
-      <guid>https://stsenhor.github.io/post/test/</guid>
-      <description>&lt;h1 id=&#34;hogehoge1&#34;&gt;[hogehoge1]&lt;/h1&gt;
-&lt;h2 id=&#34;hogehoge2&#34;&gt;[hogehoge2]&lt;/h2&gt;
-&lt;p&gt;+++&lt;/p&gt;
-</description>
+      
+      <guid>/tags/test/</guid>
+      <description></description>
     </item>
+    
   </channel>
 </rss>

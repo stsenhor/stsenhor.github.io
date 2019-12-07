@@ -1,34 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://stsenhor.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>TBOU</title>
+    <link>https://stsenhor.github.io/</link>
+    <description>Recent content on TBOU</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
     <lastBuildDate>Sat, 07 Dec 2019 12:34:21 +0900</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>PURPOSE（目的）</title>
-      <link>/about/</link>
-      <pubDate>Sat, 07 Dec 2019 12:34:21 +0900</pubDate>
-      
-      <guid>/about/</guid>
-      <description>下記小説の公開のため使用
-The birth of Übermensch
-ザー・バース・オブ・ユーバーメンシュ</description>
-    </item>
-    
-    <item>
-      <title>ブログ始めました。</title>
-      <link>/post/test/</link>
-      <pubDate>Sun, 01 Dec 2019 22:31:51 +0900</pubDate>
-      
-      <guid>/post/test/</guid>
-      <description>[hogehoge1] [hogehoge2] +++</description>
-    </item>
-    
+    <atom:link href="https://stsenhor.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
